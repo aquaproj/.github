@@ -6,5 +6,5 @@
 
 Declarative CLI Version manager. Support `Lazy Install` and Sharable configuration mechanism named `Registry`. Switch versions seamlessly.
 
-* Document: https://aquaproj.github.io/
-* [Issues](https://github.com/aquaproj/aqua/issues)
+* [Document](https://aquaproj.github.io/)
+* [Discussions](https://github.com/orgs/aquaproj/discussions)
